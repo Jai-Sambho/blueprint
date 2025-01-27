@@ -1,0 +1,6 @@
+{
+  "appTitle": "blueprint",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

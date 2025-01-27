@@ -1,0 +1,15 @@
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.p.dart"
+    - "**/*.r.dart"
+    - "**/*.reflectable.dart"
+    - "**/*.router.dart"
+    - "**/*.theme.dart"
+    - "**/*.theme.g.dart"
